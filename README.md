@@ -9,14 +9,19 @@ I'm a Computer Engineering student with a passion for teaching, web development,
 
 ## 🛠️ Technologies & Tools
 
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
 ![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)
 ![VueJS](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite)
+
+
 
 ## 📈 GitHub Stats
 
