@@ -20,7 +20,11 @@ I'm a Computer Engineering student with a passion for teaching, web development,
 
 ## 📈 GitHub Stats
 
-![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseArantes83&show_icons=true&theme=radical)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoseArantes83&theme=radical" alt="my Github Stats"/>
+<!--<img src="https://myreadme.vercel.app/api/embed/JoseArantes83?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />-->
+<!--<img src="https://myreadme.vercel.app/api/embed/JoseArantes83?panels=userstatistics,toprepositories" alt="reimaginedreadme" />-->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseArantes83&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" />
+<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseArantes83&theme=radical" alt="mystreak"/>-->
 
 ## 📫 Connect with Me
 
