@@ -5,7 +5,7 @@
 I'm a Computer Engineering student with a passion for teaching, web development, and AI. I enjoy sharing knowledge with others and creating innovative solutions.
 
 - 🔭 I’m currently working on a Scientific Initiation project using FlutterFlow for mobile application development.
-- 🌱 I'm currently learning Docker, Docker Compose and other related technologies for my college extension project. This project consists of creating a website to share how to implement the BOCA system, allowing programming marathons to be held.
+- 🌱 I'm currently learning Docker, Docker Compose and other related technologies for my college extension project.
 
 ## 🛠️ Technologies & Tools
 
