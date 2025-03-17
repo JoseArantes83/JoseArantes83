@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 My name is José, and I'm a Computer Engineering student interested in AI and software development!
 
