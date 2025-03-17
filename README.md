@@ -1,12 +1,12 @@
-# Hi there 👋, I'm José!
+# Hi there 👋
 
-## About Me
+My name is José, and I'm a Computer Engineering student interested in AI and software development!
 
-I'm a Computer Engineering student with a passion for teaching, web development, and AI. I enjoy sharing knowledge with others and creating innovative solutions.
 
-- 🔭 I’m currently working on a Scientific Initiation project using FlutterFlow for mobile application development.
-- 🌱 I'm currently learning Docker, Docker Compose and other related technologies for my college extension project.
-
+- 🔭 I’m currently working on an AI that can differentiate bovine animals.
+- 🌱 I recently developed a blood donation system, check it out [here](https://github.com/JoseArantes83/Blood-Donation-System/).
+- 👯 I'm looking to collaborate as a developer and a communicator.
+<!--
 ## 🛠️ Technologies & Tools
 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
@@ -26,10 +26,7 @@ I'm a Computer Engineering student with a passion for teaching, web development,
 ## 📈 GitHub Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoseArantes83&theme=radical" alt="my Github Stats"/>
-<!--<img src="https://myreadme.vercel.app/api/embed/JoseArantes83?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />-->
-<!--<img src="https://myreadme.vercel.app/api/embed/JoseArantes83?panels=userstatistics,toprepositories" alt="reimaginedreadme" />-->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseArantes83&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" />
-<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseArantes83&theme=radical" alt="mystreak"/>-->
 
 ## 📫 Connect with Me
 
@@ -39,3 +36,4 @@ I'm a Computer Engineering student with a passion for teaching, web development,
 ---
 
 ⭐️ From [José](https://github.com/JoseArantes83)
+-->
