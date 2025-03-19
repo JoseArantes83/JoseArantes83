@@ -4,7 +4,7 @@ My name is José, and I'm a Computer Engineering student interested in AI and so
 
 
 - 🔭 I’m currently working on an AI that can differentiate bovine animals.
-- 🌱 I recently developed a blood donation system, check it out [here](https://github.com/JoseArantes83/Blood-Donation-System/).
+- 🌱 I recently developed a Blood Donation System, check it out [here](https://github.com/JoseArantes83/Blood-Donation-System/).
 - 👯 I'm looking to collaborate as a developer and a communicator.
 <!--
 ## 🛠️ Technologies & Tools
